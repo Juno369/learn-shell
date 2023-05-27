@@ -4,4 +4,4 @@ List of topics
 
 1. comments
 2. prints
-3. variables
+3. variable
